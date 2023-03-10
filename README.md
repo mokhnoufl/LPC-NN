@@ -19,5 +19,7 @@ The data set comprises the following
 *Test bearings with inner race fault (left) and ball fault (right)*
 
 
+The distinguishing feature of a data set is the way it is collected. A wireless sensor that measures linear and angular acceleration is mounted directly on a rotating shaft. The dataset is introduced and first analyzed in the paper ( и ссылка https://www.sciencedirect.com/science/article/pii/S0888327022005714?via%3Dihub)
+
 **Note:** The data is stored in a [Matlab](https://www.mathworks.com/products/matlab.html) double-precision, binary format *.mat file. The data structure holds vectors of linear and angular acceleration data.
 
